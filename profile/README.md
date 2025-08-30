@@ -10,8 +10,8 @@
 
 📍 中国·山东·枣庄
 
-[![Website](https://img.shields.io/badge/Website-cotix.ai-blue?style=flat-square)](https://cotix-ai.cc/)
-[![Email](https://img.shields.io/badge/Email-contact@cotix.ai-red?style=flat-square)](mailto:contact@cotix-ai.cc)
+[![Website](https://img.shields.io/badge/Website-cotix-ai.dev-blue?style=flat-square)](https://cotix-ai.dev/)
+[![Email](https://img.shields.io/badge/Email-contact@cotix-ai.dev-red?style=flat-square)](mailto:contact@cotix-ai.dev)
 [![Blog](https://img.shields.io/badge/Blog-Coming%20Soon-green?style=flat-square)](#)
 
 </div>
